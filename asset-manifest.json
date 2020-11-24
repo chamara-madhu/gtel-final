@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/gtel-final/static/css/main.586d561d.chunk.css",
-    "main.js": "/gtel-final/static/js/main.e4ca5d40.chunk.js",
-    "main.js.map": "/gtel-final/static/js/main.e4ca5d40.chunk.js.map",
+    "main.js": "/gtel-final/static/js/main.c3454ce3.chunk.js",
+    "main.js.map": "/gtel-final/static/js/main.c3454ce3.chunk.js.map",
     "runtime-main.js": "/gtel-final/static/js/runtime-main.b6e52386.js",
     "runtime-main.js.map": "/gtel-final/static/js/runtime-main.b6e52386.js.map",
     "static/js/2.7a50e6ab.chunk.js": "/gtel-final/static/js/2.7a50e6ab.chunk.js",
@@ -28,6 +28,6 @@
     "static/js/runtime-main.b6e52386.js",
     "static/js/2.7a50e6ab.chunk.js",
     "static/css/main.586d561d.chunk.css",
-    "static/js/main.e4ca5d40.chunk.js"
+    "static/js/main.c3454ce3.chunk.js"
   ]
 }
